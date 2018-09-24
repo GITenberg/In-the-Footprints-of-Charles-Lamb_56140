@@ -1,0 +1,35 @@
+_repo: In-the-Footprints-of-Charles-Lamb_56140
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Fulleylove, John
+    birthdate: 1847
+    deathdate: 1908
+    gutenberg_agent_id: '33411'
+    url: http://www.gutenberg.org/2009/agents/33411
+  - agent_name: Railton, Herbert
+    birthdate: 1857
+    deathdate: 1910
+    gutenberg_agent_id: '42184'
+    url: http://www.gutenberg.org/2009/agents/42184
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+creator:
+  author:
+    agent_name: Martin, Benjamin Ellis
+    deathdate: 1909
+    gutenberg_agent_id: '41426'
+    url: http://www.gutenberg.org/2009/agents/41426
+description: ''
+gutenberg_issued: '2017-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lamb, Charles, 1775-1834'
+- GITenberg
+title: In the Footprints of Charles Lamb
+url: http://www.gutenberg.org/ebooks/56140
