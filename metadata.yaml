@@ -1,5 +1,5 @@
 _repo: In-the-Footprints-of-Charles-Lamb_56140
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Fulleylove, John
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '42184'
     url: http://www.gutenberg.org/2009/agents/42184
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+covers:
+- cover_type: archival
+  image_path: 56140-h/images/cover.jpg
 creator:
   author:
     agent_name: Martin, Benjamin Ellis
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '41426'
     url: http://www.gutenberg.org/2009/agents/41426
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56140#In-the-Footprints-of-Charles-Lamb
 gutenberg_issued: '2017-12-06'
 gutenberg_type: Text
 identifiers:
